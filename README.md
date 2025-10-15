@@ -25,7 +25,7 @@
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="www.linkedin.com/in/satyamp195" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
